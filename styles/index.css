@@ -1,0 +1,29 @@
+#side{
+    display: flex;
+    margin-left: 20px;
+    gap: 30px
+    ;
+}
+#results{
+    width: 80%;
+   display: grid;
+   grid-template-columns: repeat(1,fr);
+   grid-template-rows: auto;
+   margin-left: 40px;
+}
+
+.div{
+  width: 100%;
+  height: auto;
+  border: 1px solid black;
+ 
+}
+
+.div img{
+    width: 150px;
+    height: 200px;
+}
+.h{
+    background-color: blue;
+    color: wheat;
+}

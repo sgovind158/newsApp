@@ -1,0 +1,13 @@
+#navbar{
+    width: 80%;
+    height: 150px;
+    border: 1px solid blue;
+    margin: auto;
+}
+#search_input{
+    width: 50%;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 200px;
+
+}
